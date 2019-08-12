@@ -17,6 +17,13 @@
       </ol>
     </section>
     <section>
+      <title>Target</title>
+      <p>The target location on S3 for the output to appear:</p>
+      <ol>
+        <li>s3://purestorage.migration/restructured</li>
+      </ol>
+    </section>
+    <section>
       <title>IndexTerms</title>
       <p>Lists the Index terms per PS-775.</p>
 
