@@ -1,634 +1,648 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="a1">
-    <title>Pure Metadata</title>
-    <conbody>
-        <section>
-        <title>IndexTerms></title>
-        <dl>
-            <dlentry>
-                <dt>alert watcher</dt>
-                <dd>alert watcher</dd>
-                <dd>alert watchers</dd>
-                <dd>purealert</dd>
-            </dlentry>
-            <dlentry>
-                <dt>alerts</dt>
-                <dd>error</dd>
-                <dd>errors</dd>
-                <dd>message</dd>
-                <dd>messages</dd>
-                <dd>hardware health</dd>
-                <dd>quotahard limit</dd>
-                <dd>quotahard limits</dd>
-            </dlentry>
-            <dlentry>
-                <dt>all-flash</dt>
-                <dd>all-flash</dd>
-                <dd>flashblade</dd>
-                <dd>flasharray</dd>
-                <dd>blades</dd>
-                <dd>blade</dd>
-                <dd>flash modules</dd>
-                <dd>flash module</dd>
-                <dd>nvm ram</dd>
-                <dd>nvm rams</dd>
-            </dlentry>
-            <dlentry>
-                <dt>amazon s3</dt>
-                <dd>amazon</dd>
-                <dd>object</dd>
-                <dd>objects</dd>
-                <dd>bucket</dd>
-                <dd>buckets</dd>
-                <dd>s3</dd>
-                <dd>aws</dd>
-            </dlentry>
-            <dlentry>
-                <dt>aws</dt>
-                <dd>amazon</dd>
-                <dd>object</dd>
-                <dd>objects</dd>
-                <dd>bucket</dd>
-                <dd>buckets</dd>
-                <dd>s3</dd>
-                <dd>aws</dd>
-            </dlentry>
-            <dlentry>
-                <dt>bucket</dt>
-                <dd>amazon</dd>
-                <dd>object</dd>
-                <dd>bucket</dd>
-                <dd>buckets</dd>
-                <dd>s3</dd>
-                <dd>aws</dd>
-                <dd>purebucket</dd>
-                <dd>pureobjuser</dd>
-                <dd>pureconfig</dd>
-            </dlentry>
-            <dlentry>
-                <dt>ca certificate</dt>
-                <dd>ca certificate</dd>
-                <dd>ca certificates</dd>
-                <dd>directory services</dd>
-                <dd>directory service</dd>
-                <dd>ldap</dd>
-                <dd>ldaps</dd>
-                <dd>nfs</dd>
-            </dlentry>
-            <dlentry>
-                <dt>data reduction</dt>
-                <dd>performance</dd>
-                <dd>data reduction</dd>
-                <dd>data reductions</dd>
-            </dlentry>
-            <dlentry>
-                <dt>data vip</dt>
-                <dd>data vip</dd>
-                <dd>data vips</dd>
-                <dd>purenetwork</dd>
-                <dd>data virtual ip</dd>
-                <dd>data virtual ips</dd>
-                <dd>purefs</dd>
-            </dlentry>
-            <dlentry>
-                <dt>deduplication</dt>
-                <dd>performance</dd>
-                <dd>performances</dd>
-                <dd>data reduction</dd>
-                <dd>data reductions</dd>
-                <dd>deduplication</dd>
-                <dd>deduplications</dd>
-            </dlentry>
-            <dlentry>
-                <dt>directory services</dt>
-                <dd>directory service</dd>
-                <dd>directory services</dd>
-                <dd>pureds</dd>
-                <dd>nfs</dd>
-                <dd>smb</dd>
-                <dd>smbs</dd>
-                <dd>ldap</dd>
-                <dd>ldaps</dd>
-            </dlentry>
-            <dlentry>
-                <dt>management</dt>
-                <dd>management</dd>
-                <dd>managements</dd>
-                <dd>directory service</dd>
-                <dd>directory services</dd>
-                <dd>pureds</dd>
-                <dd>ldap</dd>
-                <dd>ldaps</dd>
-            </dlentry>
-            <dlentry>
-                <dt>roles</dt>
-                <dd>role</dd>
-                <dd>roles</dd>
-                <dd>directory service</dd>
-                <dd>directory services</dd>
-                <dd>pureds</dd>
-                <dd>pureadmin</dd>
-                <dd>readonly</dd>
-                <dd>storage_admin</dd>
-                <dd>array_admin</dd>
-                <dd>ops_admin</dd>
-            </dlentry>
-            <dlentry>
-                <dt>file replication</dt>
-                <dd>file replication</dd>
-                <dd>file system</dd>
-                <dd>file systems</dd>
-                <dd>connected array</dd>
-                <dd>connected arrays</dd>
-                <dd>connected target</dd>
-                <dd>connected targets</dd>
-                <dd>file system</dd>
-                <dd>file systems</dd>
-                <dd>purefs</dd>
-            </dlentry>
-            <dlentry>
-                <dt>file system</dt>
-                <dd>purefs</dd>
-                <dd>file system</dd>
-                <dd>file systems</dd>
-                <dd>snapshot</dd>
-                <dd>snapshots</dd>
-                <dd>eradicate</dd>
-                <dd>eradicates</dd>
-                <dd>destroy</dd>
-                <dd>destroys</dd>
-            </dlentry>
-            <dlentry>
-                <dt>filesystem</dt>
-                <dd>purefs</dd>
-                <dd>file system</dd>
-                <dd>file systems</dd>
-                <dd>snapshot</dd>
-                <dd>snapshots</dd>
-                <dd>eradicate</dd>
-                <dd>eradicates</dd>
-                <dd>destroy</dd>
-                <dd>destroys</dd>
-            </dlentry>
-            <dlentry>
-                <dt>hard limit</dt>
-                <dd>quotas</dd>
-                <dd>purefs</dd>
-                <dd>purequota</dd>
-                <dd>provisioned size</dd>
-                <dd>provisioned sizes</dd>
-                <dd>file system size</dd>
-                <dd>file system sizes</dd>
-                <dd>usage limit</dd>
-                <dd>usage limits</dd>
-                <dd>policy</dd>
-                <dd>hard limit</dd>
-                <dd>hard limits</dd>
-                <dd>policies</dd>
-            </dlentry>
-            <dlentry>
-                <dt>hardware</dt>
-                <dd>blade</dd>
-                <dd>blades</dd>
-                <dd>chassis</dd>
-                <dd>flash module</dd>
-                <dd>flash modules</dd>
-                <dd>XFM</dd>
-                <dd>XFMs</dd>
-                <dd>drive</dd>
-                <dd>drives</dd>
-                <dd>elastic fabric module</dd>
-                <dd>elastic fabric modules</dd>
-                <dd>EFM</dd>
-                <dd>EFMs</dd>
-                <dd>External Fabric Module</dd>
-                <dd>External Fabric Modules</dd>
-                <dd>purehw</dd>
-                <dd>power supply</dd>
-                <dd>power supplies</dd>
-                <dd>fan</dd>
-                <dd>fans</dd>
-                <dd>cable</dd>
-                <dd>cables</dd>
-                <dd>uplink</dd>
-                <dd>uplinks</dd>
-                <dd>port</dd>
-                <dd>ports</dd>
-                <dd>slot</dd>
-                <dd>slots</dd>
-                <dd>temperature</dd>
-                <dd>temperatures</dd>
-                <dd>LED</dd>
-                <dd>LEDs</dd>
-                <dd>hardware</dd>
-                <dd>hardwares</dd>
-            </dlentry>
-            <dlentry>
-                <dt>health</dt>
-                <dd>alert</dd>
-                <dd>alerts</dd>
-                <dd>hardware</dd>
-                <dd>hardwares</dd>
-                <dd>purehw</dd>
-                <dd>message</dd>
-                <dd>messages</dd>
-                <dd>alert watcher</dd>
-                <dd>alert watchers</dd>
-                <dd>purealert</dd>
-                <dd>pureblade</dd>
-            </dlentry>
-            <dlentry>
-                <dt>link aggregate group</dt>
-                <dd>link aggregate group</dd>
-                <dd>link aggregate groups</dd>
-                <dd>lag</dd>
-                <dd>lags</dd>
-                <dd>port</dd>
-                <dd>ports</dd>
-                <dd>puresubnet</dd>
-                <dd>purelag</dd>
-                <dd>data vip</dd>
-                <dd>data vips</dd>
-            </dlentry>
-            <dlentry>
-                <dt>nfs</dt>
-                <dd>directory service</dd>
-                <dd>directory services</dd>
-                <dd>nfs</dd>
-                <dd>pureds</dd>
-                <dd>network file system</dd>
-                <dd>network file systems</dd>
-                <dd>file sharing</dd>
-                <dd>export rule</dd>
-                <dd>export rules</dd>
-                <dd>nfsv3</dd>
-                <dd>nfsv4.1</dd>
-                <dd>anonymous bind</dd>
-                <dd>anonymous binds</dd>
-                <dd>active directory</dd>
-                <dd>active directories</dd>
-                <dd>protocol</dd>
-                <dd>protocols</dd>
-                <dd>ca certificate</dd>
-                <dd>ca certificates</dd>
-                <dd>group certificate</dd>
-                <dd>group certificates</dd>
-                <dd>nis</dd>
-                <dd>purearray</dd>
-                <dd>purefs</dd>
-                <dd>purecert</dd>
-                <dd>exporting a file system</dd>
-                <dd>exporting file systems</dd>
-            </dlentry>
-            <dlentry>
-                <dt>object</dt>
-                <dd>object store</dd>
-                <dd>object stores</dd>
-                <dd>pureobjaccount</dd>
-                <dd>bucket</dd>
-                <dd>buckets</dd>
-                <dd>s3</dd>
-                <dd>aws s3</dd>
-                <dd>flashblade</dd>
-                <dd>purebucket</dd>
-                <dd>pureobjuser</dd>
-                <dd>bucket versioning</dd>
-                <dd>bucket versionings</dd>
-                <dd>objectengine</dd>
-                <dd>data store</dd>
-                <dd>data stores</dd>
-                <dd>replication</dd>
-                <dd>replications</dd>
-                <dd>purecluster</dd>
-            </dlentry>
-            <dlentry>
-                <dt>object replication</dt>
-                <dd>object store</dd>
-                <dd>object stores</dd>
-                <dd>pureobjaccount</dd>
-                <dd>bucket</dd>
-                <dd>buckets</dd>
-                <dd>s3</dd>
-                <dd>aws s3</dd>
-                <dd>flashblade</dd>
-                <dd>purebucket</dd>
-                <dd>pureobjuser</dd>
-                <dd>bucket versioning</dd>
-                <dd>objectengine</dd>
-                <dd>data store</dd>
-                <dd>data stores</dd>
-                <dd>replication</dd>
-                <dd>purecluster</dd>
-            </dlentry>
-            <dlentry>
-                <dt>performance</dt>
-                <dd>object store</dd>
-                <dd>object stores</dd>
-                <dd>pureobjaccount</dd>
-                <dd>bucket</dd>
-                <dd>buckets</dd>
-                <dd>s3</dd>
-                <dd>aws s3</dd>
-                <dd>flashblade</dd>
-                <dd>purebucket</dd>
-                <dd>bucket versioning</dd>
-                <dd>objectengine</dd>
-                <dd>data store</dd>
-                <dd>data stores</dd>
-                <dd>replication</dd>
-                <dd>purecluster</dd>
-                <dd>purearray</dd>
-                <dd>bandwidth</dd>
-                <dd>analysis</dd>
-                <dd>analyses</dd>
-                <dd>io</dd>
-                <dd>alert</dd>
-                <dd>alerts</dd>
-                <dd>purealert</dd>
-            </dlentry>
-            <dlentry>
-                <dt>phonehome</dt>
-                <dd>phonehome</dd>
-                <dd>phone home</dd>
-                <dd>support</dd>
-                <dd>log</dd>
-                <dd>logs</dd>
-                <dd>puresupport</dd>
-            </dlentry>
-            <dlentry>
-                <dt>phone home</dt>
-                <dd>phonehome</dd>
-                <dd>phone home</dd>
-                <dd>support</dd>
-                <dd>log</dd>
-                <dd>logs</dd>
-                <dd>puresupport</dd>
-            </dlentry>
-            <dlentry>
-                <dt>policies</dt>
-                <dd>snapshot</dd>
-                <dd>snapshots</dd>
-                <dd>purefs</dd>
-                <dd>rule</dd>
-                <dd>rules</dd>
-                <dd>policy</dd>
-                <dd>purepolicy</dd>
-                <dd>backup</dd>
-                <dd>backups</dd>
-                <dd>policies</dd>
-                <dd>retention</dd>
-                <dd>retentions</dd>
-            </dlentry>
-            <dlentry>
-                <dt>quota</dt>
-                <dd>quota</dd>
-                <dd>quotas</dd>
-                <dd>purefs</dd>
-                <dd>purequota</dd>
-                <dd>provisioned size</dd>
-                <dd>provisioned sizes</dd>
-                <dd> file system size</dd>
-                <dd> file system sizes</dd>
-                <dd>usage limit</dd>
-                <dd>usage limits</dd>
-                <dd>policy</dd>
-                <dd>hard limit</dd>
-                <dd>hard limits</dd>
-                <dd>policies</dd>
-                <dd>file system</dd>
-                <dd>file systems</dd>
-            </dlentry>
-            <dlentry>
-                <dt>remote assist</dt>
-                <dd>ra</dd>
-                <dd>support</dd>
-                <dd>pure1 support</dd>
-                <dd>puresupport</dd>
-            </dlentry>
-            <dlentry>
-                <dt>rollback</dt>
-                <dd>rollback</dd>
-                <dd>snapshot</dd>
-                <dd>purefs</dd>
-                <dd>file system</dd>
-                <dd>recovery</dd>
-                <dd>revert</dd>
-            </dlentry>
-            <dlentry>
-                <dt>smb</dt>
-                <dd>smb</dd>
-                <dd>smbs</dd>
-                <dd>file sharing</dd>
-                <dd>active directory</dd>
-                <dd>active directories</dd>
-                <dd>ad rfc2307</dd>
-                <dd>ad auto</dd>
-                <dd>ad autos</dd>
-                <dd>protocol</dd>
-                <dd>protocols</dd>
-                <dd>acl mode</dd>
-                <dd>acl modes</dd>
-                <dd>join ou</dd>
-                <dd>pureds</dd>
-                <dd>ldap</dd>
-                <dd>ldaps</dd>
-                <dd>purefs</dd>
-            </dlentry>
-            <dlentry>
-                <dt>snapshot</dt>
-                <dd>purefs</dd>
-                <dd>file system</dd>
-                <dd>file systems</dd>
-                <dd>snapshot</dd>
-                <dd>snapshots</dd>
-                <dd>eradicate</dd>
-                <dd>eradicates</dd>
-                <dd>destroy</dd>
-                <dd>destroys</dd>
-                <dd>rollback</dd>
-                <dd>rollbacks</dd>
-                <dd>recovery</dd>
-                <dd>recoveries</dd>
-                <dd>revert</dd>
-                <dd>reverts</dd>
-                <dd>policies</dd>
-                <dd>policy</dd>
-                <dd>retention</dd>
-                <dd>retentions</dd>
-                <dd>purearray</dd>
-                <dd>purepolicy</dd>
-                <dd>fast-remove</dd>
-            </dlentry>
-            <dlentry>
-                <dt>ssl certificate</dt>
-                <dd>ssl certificate</dd>
-                <dd>ssl certificates</dd>
-                <dd>pureds</dd>
-                <dd>directory service</dd>
-                <dd>directory services</dd>
-                <dd>ca certificate</dd>
-                <dd>ca certificates</dd>
-                <dd>purecert</dd>
-            </dlentry>
-            <dlentry>
-                <dt>flasharray</dt>
-                <dd>flasharray</dd>
-                <dd>FA</dd>
-                <dd>volume</dd>
-                <dd>volumes</dd>
-                <dd>block storage</dd>
-                <dd>block storages</dd>
-                <dd>purity//fa</dd>
-            </dlentry>
-            <dlentry>
-                <dt>flashblade</dt>
-                <dd>flashblade</dd>
-                <dd>FBpurity//fb</dd>
-                <dd>file level storage</dd>
-                <dd>file level storages</dd>
-            </dlentry>
-            <dlentry>
-                <dt>objectengine</dt>
-                <dd>objectengine</dd>
-                <dd>OE</dd>
-                <dd>deduplication</dd>
-                <dd>cluster</dd>
-                <dd>clusters</dd>
-                <dd>shard</dd>
-                <dd>shards</dd>
-                <dd>garbage collection</dd>
-                <dd>garbage collections</dd>
-                <dd>objectengine//a</dd>
-                <dd>backend data store</dd>
-                <dd>backend data stores</dd>
-            </dlentry>
-            <dlentry>
-                <dt>pure1</dt>
-                <dd>pure1</dd>
-            </dlentry>
-            <dlentry>
-                <dt>add</dt>
-                <dd>add</dd>
-                <dd>adding</dd>
-            </dlentry>
-            <dlentry>
-                <dt>adding</dt>
-                <dd>add</dd>
-                <dd>adding</dd>
-            </dlentry>
-            <dlentry>
-                <dt>change</dt>
-                <dd>change</dd>
-                <dd>changing</dd>
-            </dlentry>
-            <dlentry>
-                <dt>changing</dt>
-                <dd>change</dd>
-                <dd>changing</dd>
-            </dlentry>
-            <dlentry>
-                <dt>configure</dt>
-                <dd>configure</dd>
-                <dd>configuring</dd>
-            </dlentry>
-            <dlentry>
-                <dt>configuring</dt>
-                <dd>configure</dd>
-                <dd>configuring</dd>
-            </dlentry>
-            <dlentry>
-                <dt>create</dt>
-                <dd>create</dd>
-                <dd>creating</dd>
-            </dlentry>
-            <dlentry>
-                <dt>creating</dt>
-                <dd>create</dd>
-                <dd>creating</dd>
-            </dlentry>
-            <dlentry>
-                <dt>delete</dt>
-                <dd>delete</dd>
-                <dd>deleting</dd>
-            </dlentry>
-            <dlentry>
-                <dt>deleting</dt>
-                <dd>delete</dd>
-                <dd>deleting</dd>
-            </dlentry>
-            <dlentry>
-                <dt>destroy</dt>
-                <dd>destroy</dd>
-                <dd>destroying</dd>
-            </dlentry>
-            <dlentry>
-                <dt>destroying</dt>
-                <dd>destroy</dd>
-                <dd>destroying</dd>
-            </dlentry>
-            <dlentry>
-                <dt>edit</dt>
-                <dd>edit</dd>
-                <dd>editing</dd>
-            </dlentry>
-            <dlentry>
-                <dt>editing</dt>
-                <dd>edit</dd>
-                <dd>editing</dd>
-            </dlentry>
-            <dlentry>
-                <dt>eradicate</dt>
-                <dd>eradicate</dd>
-                <dd>eradicating</dd>
-            </dlentry>
-            <dlentry>
-                <dt>eradicating</dt>
-                <dd>eradicate</dd>
-                <dd>eradicating</dd>
-            </dlentry>
-            <dlentry>
-                <dt>modify</dt>
-                <dd>modify</dd>
-                <dd>modifying</dd>
-            </dlentry>
-            <dlentry>
-                <dt>modifying</dt>
-                <dd>modify</dd>
-                <dd>modifying</dd>
-            </dlentry>
-            <dlentry>
-                <dt>remove</dt>
-                <dd>remove</dd>
-                <dd>removing</dd>
-            </dlentry>
-            <dlentry>
-                <dt>removing</dt>
-                <dd>remove</dd>
-                <dd>removing</dd>
-            </dlentry>
-            <dlentry>
-                <dt>search</dt>
-                <dd>search</dd>
-                <dd>searching</dd>
-            </dlentry>
-            <dlentry>
-                <dt>searching</dt>
-                <dd>search</dd>
-                <dd>searching</dd>
-            </dlentry>
-            <dlentry>
-                <dt>troubleshoot</dt>
-                <dd>troubleshoot</dd>
-                <dd>troubleshooting</dd>
-            </dlentry>
-            <dlentry>
-                <dt>troubleshooting</dt>
-                <dd>troubleshoot</dd>
-                <dd>troubleshooting</dd>
-            </dlentry>
-        </dl>
-        <section>
-            
-    </conbody>
+  <title>Pure Metadata</title>
+  <conbody>
+    <section>
+      <title>Sources</title>
+      <p>Use paragraphs as comments, I will ignore them when processing this file.</p>
+      <p>The sources section lists the s3 buckets and github repositories that will contribute to the restructuring per PS2-772.</p>
+      <ol>
+        <li>s3://purestorage.migration/dita/results2</li>
+        <li>s3://purestorage.migration/docbook/results2</li>
+        <li>s3://purestorage.migration/html/results2</li>
+        <li>s3://purestorage.migration/jsonAndHtml/out</li>
+        <li>s3://purestorage.migration/mindTouch/results2</li>
+        <li>s3://purestorage.migration/word/results3</li>
+      </ol>
+    </section>
+    <section>
+      <title>IndexTerms></title>
+      <p>Lists the Index terms per PS-775.</p>
+
+      <dl>
+        <dlentry>
+          <dt>alert watcher</dt>
+          <dd>alert watcher</dd>
+          <dd>alert watchers</dd>
+          <dd>purealert</dd>
+        </dlentry>
+        <dlentry>
+          <dt>alerts</dt>
+          <dd>error</dd>
+          <dd>errors</dd>
+          <dd>message</dd>
+          <dd>messages</dd>
+          <dd>hardware health</dd>
+          <dd>quotahard limit</dd>
+          <dd>quotahard limits</dd>
+        </dlentry>
+        <dlentry>
+          <dt>all-flash</dt>
+          <dd>all-flash</dd>
+          <dd>flashblade</dd>
+          <dd>flasharray</dd>
+          <dd>blades</dd>
+          <dd>blade</dd>
+          <dd>flash modules</dd>
+          <dd>flash module</dd>
+          <dd>nvm ram</dd>
+          <dd>nvm rams</dd>
+        </dlentry>
+        <dlentry>
+          <dt>amazon s3</dt>
+          <dd>amazon</dd>
+          <dd>object</dd>
+          <dd>objects</dd>
+          <dd>bucket</dd>
+          <dd>buckets</dd>
+          <dd>s3</dd>
+          <dd>aws</dd>
+        </dlentry>
+        <dlentry>
+          <dt>aws</dt>
+          <dd>amazon</dd>
+          <dd>object</dd>
+          <dd>objects</dd>
+          <dd>bucket</dd>
+          <dd>buckets</dd>
+          <dd>s3</dd>
+          <dd>aws</dd>
+        </dlentry>
+        <dlentry>
+          <dt>bucket</dt>
+          <dd>amazon</dd>
+          <dd>object</dd>
+          <dd>bucket</dd>
+          <dd>buckets</dd>
+          <dd>s3</dd>
+          <dd>aws</dd>
+          <dd>purebucket</dd>
+          <dd>pureobjuser</dd>
+          <dd>pureconfig</dd>
+        </dlentry>
+        <dlentry>
+          <dt>ca certificate</dt>
+          <dd>ca certificate</dd>
+          <dd>ca certificates</dd>
+          <dd>directory services</dd>
+          <dd>directory service</dd>
+          <dd>ldap</dd>
+          <dd>ldaps</dd>
+          <dd>nfs</dd>
+        </dlentry>
+        <dlentry>
+          <dt>data reduction</dt>
+          <dd>performance</dd>
+          <dd>data reduction</dd>
+          <dd>data reductions</dd>
+        </dlentry>
+        <dlentry>
+          <dt>data vip</dt>
+          <dd>data vip</dd>
+          <dd>data vips</dd>
+          <dd>purenetwork</dd>
+          <dd>data virtual ip</dd>
+          <dd>data virtual ips</dd>
+          <dd>purefs</dd>
+        </dlentry>
+        <dlentry>
+          <dt>deduplication</dt>
+          <dd>performance</dd>
+          <dd>performances</dd>
+          <dd>data reduction</dd>
+          <dd>data reductions</dd>
+          <dd>deduplication</dd>
+          <dd>deduplications</dd>
+        </dlentry>
+        <dlentry>
+          <dt>directory services</dt>
+          <dd>directory service</dd>
+          <dd>directory services</dd>
+          <dd>pureds</dd>
+          <dd>nfs</dd>
+          <dd>smb</dd>
+          <dd>smbs</dd>
+          <dd>ldap</dd>
+          <dd>ldaps</dd>
+        </dlentry>
+        <dlentry>
+          <dt>management</dt>
+          <dd>management</dd>
+          <dd>managements</dd>
+          <dd>directory service</dd>
+          <dd>directory services</dd>
+          <dd>pureds</dd>
+          <dd>ldap</dd>
+          <dd>ldaps</dd>
+        </dlentry>
+        <dlentry>
+          <dt>roles</dt>
+          <dd>role</dd>
+          <dd>roles</dd>
+          <dd>directory service</dd>
+          <dd>directory services</dd>
+          <dd>pureds</dd>
+          <dd>pureadmin</dd>
+          <dd>readonly</dd>
+          <dd>storage_admin</dd>
+          <dd>array_admin</dd>
+          <dd>ops_admin</dd>
+        </dlentry>
+        <dlentry>
+          <dt>file replication</dt>
+          <dd>file replication</dd>
+          <dd>file system</dd>
+          <dd>file systems</dd>
+          <dd>connected array</dd>
+          <dd>connected arrays</dd>
+          <dd>connected target</dd>
+          <dd>connected targets</dd>
+          <dd>file system</dd>
+          <dd>file systems</dd>
+          <dd>purefs</dd>
+        </dlentry>
+        <dlentry>
+          <dt>file system</dt>
+          <dd>purefs</dd>
+          <dd>file system</dd>
+          <dd>file systems</dd>
+          <dd>snapshot</dd>
+          <dd>snapshots</dd>
+          <dd>eradicate</dd>
+          <dd>eradicates</dd>
+          <dd>destroy</dd>
+          <dd>destroys</dd>
+        </dlentry>
+        <dlentry>
+          <dt>filesystem</dt>
+          <dd>purefs</dd>
+          <dd>file system</dd>
+          <dd>file systems</dd>
+          <dd>snapshot</dd>
+          <dd>snapshots</dd>
+          <dd>eradicate</dd>
+          <dd>eradicates</dd>
+          <dd>destroy</dd>
+          <dd>destroys</dd>
+        </dlentry>
+        <dlentry>
+          <dt>hard limit</dt>
+          <dd>quotas</dd>
+          <dd>purefs</dd>
+          <dd>purequota</dd>
+          <dd>provisioned size</dd>
+          <dd>provisioned sizes</dd>
+          <dd>file system size</dd>
+          <dd>file system sizes</dd>
+          <dd>usage limit</dd>
+          <dd>usage limits</dd>
+          <dd>policy</dd>
+          <dd>hard limit</dd>
+          <dd>hard limits</dd>
+          <dd>policies</dd>
+        </dlentry>
+        <dlentry>
+          <dt>hardware</dt>
+          <dd>blade</dd>
+          <dd>blades</dd>
+          <dd>chassis</dd>
+          <dd>flash module</dd>
+          <dd>flash modules</dd>
+          <dd>XFM</dd>
+          <dd>XFMs</dd>
+          <dd>drive</dd>
+          <dd>drives</dd>
+          <dd>elastic fabric module</dd>
+          <dd>elastic fabric modules</dd>
+          <dd>EFM</dd>
+          <dd>EFMs</dd>
+          <dd>External Fabric Module</dd>
+          <dd>External Fabric Modules</dd>
+          <dd>purehw</dd>
+          <dd>power supply</dd>
+          <dd>power supplies</dd>
+          <dd>fan</dd>
+          <dd>fans</dd>
+          <dd>cable</dd>
+          <dd>cables</dd>
+          <dd>uplink</dd>
+          <dd>uplinks</dd>
+          <dd>port</dd>
+          <dd>ports</dd>
+          <dd>slot</dd>
+          <dd>slots</dd>
+          <dd>temperature</dd>
+          <dd>temperatures</dd>
+          <dd>LED</dd>
+          <dd>LEDs</dd>
+          <dd>hardware</dd>
+          <dd>hardwares</dd>
+        </dlentry>
+        <dlentry>
+          <dt>health</dt>
+          <dd>alert</dd>
+          <dd>alerts</dd>
+          <dd>hardware</dd>
+          <dd>hardwares</dd>
+          <dd>purehw</dd>
+          <dd>message</dd>
+          <dd>messages</dd>
+          <dd>alert watcher</dd>
+          <dd>alert watchers</dd>
+          <dd>purealert</dd>
+          <dd>pureblade</dd>
+        </dlentry>
+        <dlentry>
+          <dt>link aggregate group</dt>
+          <dd>link aggregate group</dd>
+          <dd>link aggregate groups</dd>
+          <dd>lag</dd>
+          <dd>lags</dd>
+          <dd>port</dd>
+          <dd>ports</dd>
+          <dd>puresubnet</dd>
+          <dd>purelag</dd>
+          <dd>data vip</dd>
+          <dd>data vips</dd>
+        </dlentry>
+        <dlentry>
+          <dt>nfs</dt>
+          <dd>directory service</dd>
+          <dd>directory services</dd>
+          <dd>nfs</dd>
+          <dd>pureds</dd>
+          <dd>network file system</dd>
+          <dd>network file systems</dd>
+          <dd>file sharing</dd>
+          <dd>export rule</dd>
+          <dd>export rules</dd>
+          <dd>nfsv3</dd>
+          <dd>nfsv4.1</dd>
+          <dd>anonymous bind</dd>
+          <dd>anonymous binds</dd>
+          <dd>active directory</dd>
+          <dd>active directories</dd>
+          <dd>protocol</dd>
+          <dd>protocols</dd>
+          <dd>ca certificate</dd>
+          <dd>ca certificates</dd>
+          <dd>group certificate</dd>
+          <dd>group certificates</dd>
+          <dd>nis</dd>
+          <dd>purearray</dd>
+          <dd>purefs</dd>
+          <dd>purecert</dd>
+          <dd>exporting a file system</dd>
+          <dd>exporting file systems</dd>
+        </dlentry>
+        <dlentry>
+          <dt>object</dt>
+          <dd>object store</dd>
+          <dd>object stores</dd>
+          <dd>pureobjaccount</dd>
+          <dd>bucket</dd>
+          <dd>buckets</dd>
+          <dd>s3</dd>
+          <dd>aws s3</dd>
+          <dd>flashblade</dd>
+          <dd>purebucket</dd>
+          <dd>pureobjuser</dd>
+          <dd>bucket versioning</dd>
+          <dd>bucket versionings</dd>
+          <dd>objectengine</dd>
+          <dd>data store</dd>
+          <dd>data stores</dd>
+          <dd>replication</dd>
+          <dd>replications</dd>
+          <dd>purecluster</dd>
+        </dlentry>
+        <dlentry>
+          <dt>object replication</dt>
+          <dd>object store</dd>
+          <dd>object stores</dd>
+          <dd>pureobjaccount</dd>
+          <dd>bucket</dd>
+          <dd>buckets</dd>
+          <dd>s3</dd>
+          <dd>aws s3</dd>
+          <dd>flashblade</dd>
+          <dd>purebucket</dd>
+          <dd>pureobjuser</dd>
+          <dd>bucket versioning</dd>
+          <dd>objectengine</dd>
+          <dd>data store</dd>
+          <dd>data stores</dd>
+          <dd>replication</dd>
+          <dd>purecluster</dd>
+        </dlentry>
+        <dlentry>
+          <dt>performance</dt>
+          <dd>object store</dd>
+          <dd>object stores</dd>
+          <dd>pureobjaccount</dd>
+          <dd>bucket</dd>
+          <dd>buckets</dd>
+          <dd>s3</dd>
+          <dd>aws s3</dd>
+          <dd>flashblade</dd>
+          <dd>purebucket</dd>
+          <dd>bucket versioning</dd>
+          <dd>objectengine</dd>
+          <dd>data store</dd>
+          <dd>data stores</dd>
+          <dd>replication</dd>
+          <dd>purecluster</dd>
+          <dd>purearray</dd>
+          <dd>bandwidth</dd>
+          <dd>analysis</dd>
+          <dd>analyses</dd>
+          <dd>io</dd>
+          <dd>alert</dd>
+          <dd>alerts</dd>
+          <dd>purealert</dd>
+        </dlentry>
+        <dlentry>
+          <dt>phonehome</dt>
+          <dd>phonehome</dd>
+          <dd>phone home</dd>
+          <dd>support</dd>
+          <dd>log</dd>
+          <dd>logs</dd>
+          <dd>puresupport</dd>
+        </dlentry>
+        <dlentry>
+          <dt>phone home</dt>
+          <dd>phonehome</dd>
+          <dd>phone home</dd>
+          <dd>support</dd>
+          <dd>log</dd>
+          <dd>logs</dd>
+          <dd>puresupport</dd>
+        </dlentry>
+        <dlentry>
+          <dt>policies</dt>
+          <dd>snapshot</dd>
+          <dd>snapshots</dd>
+          <dd>purefs</dd>
+          <dd>rule</dd>
+          <dd>rules</dd>
+          <dd>policy</dd>
+          <dd>purepolicy</dd>
+          <dd>backup</dd>
+          <dd>backups</dd>
+          <dd>policies</dd>
+          <dd>retention</dd>
+          <dd>retentions</dd>
+        </dlentry>
+        <dlentry>
+          <dt>quota</dt>
+          <dd>quota</dd>
+          <dd>quotas</dd>
+          <dd>purefs</dd>
+          <dd>purequota</dd>
+          <dd>provisioned size</dd>
+          <dd>provisioned sizes</dd>
+          <dd>file system size</dd>
+          <dd>file system sizes</dd>
+          <dd>usage limit</dd>
+          <dd>usage limits</dd>
+          <dd>policy</dd>
+          <dd>hard limit</dd>
+          <dd>hard limits</dd>
+          <dd>policies</dd>
+          <dd>file system</dd>
+          <dd>file systems</dd>
+        </dlentry>
+        <dlentry>
+          <dt>remote assist</dt>
+          <dd>ra</dd>
+          <dd>support</dd>
+          <dd>pure1 support</dd>
+          <dd>puresupport</dd>
+        </dlentry>
+        <dlentry>
+          <dt>rollback</dt>
+          <dd>rollback</dd>
+          <dd>snapshot</dd>
+          <dd>purefs</dd>
+          <dd>file system</dd>
+          <dd>recovery</dd>
+          <dd>revert</dd>
+        </dlentry>
+        <dlentry>
+          <dt>smb</dt>
+          <dd>smb</dd>
+          <dd>smbs</dd>
+          <dd>file sharing</dd>
+          <dd>active directory</dd>
+          <dd>active directories</dd>
+          <dd>ad rfc2307</dd>
+          <dd>ad auto</dd>
+          <dd>ad autos</dd>
+          <dd>protocol</dd>
+          <dd>protocols</dd>
+          <dd>acl mode</dd>
+          <dd>acl modes</dd>
+          <dd>join ou</dd>
+          <dd>pureds</dd>
+          <dd>ldap</dd>
+          <dd>ldaps</dd>
+          <dd>purefs</dd>
+        </dlentry>
+        <dlentry>
+          <dt>snapshot</dt>
+          <dd>purefs</dd>
+          <dd>file system</dd>
+          <dd>file systems</dd>
+          <dd>snapshot</dd>
+          <dd>snapshots</dd>
+          <dd>eradicate</dd>
+          <dd>eradicates</dd>
+          <dd>destroy</dd>
+          <dd>destroys</dd>
+          <dd>rollback</dd>
+          <dd>rollbacks</dd>
+          <dd>recovery</dd>
+          <dd>recoveries</dd>
+          <dd>revert</dd>
+          <dd>reverts</dd>
+          <dd>policies</dd>
+          <dd>policy</dd>
+          <dd>retention</dd>
+          <dd>retentions</dd>
+          <dd>purearray</dd>
+          <dd>purepolicy</dd>
+          <dd>fast-remove</dd>
+        </dlentry>
+        <dlentry>
+          <dt>ssl certificate</dt>
+          <dd>ssl certificate</dd>
+          <dd>ssl certificates</dd>
+          <dd>pureds</dd>
+          <dd>directory service</dd>
+          <dd>directory services</dd>
+          <dd>ca certificate</dd>
+          <dd>ca certificates</dd>
+          <dd>purecert</dd>
+        </dlentry>
+        <dlentry>
+          <dt>flasharray</dt>
+          <dd>flasharray</dd>
+          <dd>FA</dd>
+          <dd>volume</dd>
+          <dd>volumes</dd>
+          <dd>block storage</dd>
+          <dd>block storages</dd>
+          <dd>purity//fa</dd>
+        </dlentry>
+        <dlentry>
+          <dt>flashblade</dt>
+          <dd>flashblade</dd>
+          <dd>FBpurity//fb</dd>
+          <dd>file level storage</dd>
+          <dd>file level storages</dd>
+        </dlentry>
+        <dlentry>
+          <dt>objectengine</dt>
+          <dd>objectengine</dd>
+          <dd>OE</dd>
+          <dd>deduplication</dd>
+          <dd>cluster</dd>
+          <dd>clusters</dd>
+          <dd>shard</dd>
+          <dd>shards</dd>
+          <dd>garbage collection</dd>
+          <dd>garbage collections</dd>
+          <dd>objectengine//a</dd>
+          <dd>backend data store</dd>
+          <dd>backend data stores</dd>
+        </dlentry>
+        <dlentry>
+          <dt>pure1</dt>
+          <dd>pure1</dd>
+        </dlentry>
+        <dlentry>
+          <dt>add</dt>
+          <dd>add</dd>
+          <dd>adding</dd>
+        </dlentry>
+        <dlentry>
+          <dt>adding</dt>
+          <dd>add</dd>
+          <dd>adding</dd>
+        </dlentry>
+        <dlentry>
+          <dt>change</dt>
+          <dd>change</dd>
+          <dd>changing</dd>
+        </dlentry>
+        <dlentry>
+          <dt>changing</dt>
+          <dd>change</dd>
+          <dd>changing</dd>
+        </dlentry>
+        <dlentry>
+          <dt>configure</dt>
+          <dd>configure</dd>
+          <dd>configuring</dd>
+        </dlentry>
+        <dlentry>
+          <dt>configuring</dt>
+          <dd>configure</dd>
+          <dd>configuring</dd>
+        </dlentry>
+        <dlentry>
+          <dt>create</dt>
+          <dd>create</dd>
+          <dd>creating</dd>
+        </dlentry>
+        <dlentry>
+          <dt>creating</dt>
+          <dd>create</dd>
+          <dd>creating</dd>
+        </dlentry>
+        <dlentry>
+          <dt>delete</dt>
+          <dd>delete</dd>
+          <dd>deleting</dd>
+        </dlentry>
+        <dlentry>
+          <dt>deleting</dt>
+          <dd>delete</dd>
+          <dd>deleting</dd>
+        </dlentry>
+        <dlentry>
+          <dt>destroy</dt>
+          <dd>destroy</dd>
+          <dd>destroying</dd>
+        </dlentry>
+        <dlentry>
+          <dt>destroying</dt>
+          <dd>destroy</dd>
+          <dd>destroying</dd>
+        </dlentry>
+        <dlentry>
+          <dt>edit</dt>
+          <dd>edit</dd>
+          <dd>editing</dd>
+        </dlentry>
+        <dlentry>
+          <dt>editing</dt>
+          <dd>edit</dd>
+          <dd>editing</dd>
+        </dlentry>
+        <dlentry>
+          <dt>eradicate</dt>
+          <dd>eradicate</dd>
+          <dd>eradicating</dd>
+        </dlentry>
+        <dlentry>
+          <dt>eradicating</dt>
+          <dd>eradicate</dd>
+          <dd>eradicating</dd>
+        </dlentry>
+        <dlentry>
+          <dt>modify</dt>
+          <dd>modify</dd>
+          <dd>modifying</dd>
+        </dlentry>
+        <dlentry>
+          <dt>modifying</dt>
+          <dd>modify</dd>
+          <dd>modifying</dd>
+        </dlentry>
+        <dlentry>
+          <dt>remove</dt>
+          <dd>remove</dd>
+          <dd>removing</dd>
+        </dlentry>
+        <dlentry>
+          <dt>removing</dt>
+          <dd>remove</dd>
+          <dd>removing</dd>
+        </dlentry>
+        <dlentry>
+          <dt>search</dt>
+          <dd>search</dd>
+          <dd>searching</dd>
+        </dlentry>
+        <dlentry>
+          <dt>searching</dt>
+          <dd>search</dd>
+          <dd>searching</dd>
+        </dlentry>
+        <dlentry>
+          <dt>troubleshoot</dt>
+          <dd>troubleshoot</dd>
+          <dd>troubleshooting</dd>
+        </dlentry>
+        <dlentry>
+          <dt>troubleshooting</dt>
+          <dd>troubleshoot</dd>
+          <dd>troubleshooting</dd>
+        </dlentry>
+      </dl>
+    </section>
+  </conbody>
 </concept>
