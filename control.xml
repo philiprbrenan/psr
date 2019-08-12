@@ -3,6 +3,8 @@
 <concept id="a1">
     <title>Pure Metadata</title>
     <conbody>
+        <section>
+        <title>IndexTerms></title>
         <dl>
             <dlentry>
                 <dt>alert watcher</dt>
@@ -626,5 +628,7 @@
                 <dd>troubleshooting</dd>
             </dlentry>
         </dl>
+        <section>
+            
     </conbody>
 </concept>
