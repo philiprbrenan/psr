@@ -657,30 +657,30 @@
       <p>The casing matters and the order in which the dlentrys are processed is important. Please process them sequentially.</p>
       <dl>
         <dlentry>
-          <dt><ph conkeyref="ph_sw_name/ph_sw_name"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_sw_name"/></dt>
           <dd>ObjectEngine Software</dd>
           <dd>Pure1 Manage</dd>
           <dd>Purity//FB</dd>
           <dd>Purity//FA</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_OE_GUI/ph_OE_GUI"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_OE_GUI"/></dt>
           <dd>ObjectEngine GUI</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_OE_cloud_direct/ph_OE_cloud_direct"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_OE_cloud_direct"/></dt>
           <dd>ObjectEngine Cloud Direct</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_OE_cluster_long_name_pl/ph_OE_cluster_long_name_pl"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_OE_cluster_long_name_pl"/></dt>
           <dd>ObjectEngine//A Clusters</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_OE_cluster_long_name/ph_OE_cluster_long_name"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_OE_cluster_long_name"/></dt>
           <dd>ObjectEngine//A Cluster</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_prod_model/ph_prod_model"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_prod_model"/></dt>
           <dd>FlashArray//X</dd>
           <dd>FlashArray//X R2</dd>
           <dd>FlashArray//X R1</dd>
@@ -688,11 +688,11 @@
           <dd>FlashArray//C</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_prod_name_chassis/ph_prod_name_chassis"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_prod_name_chassis"/></dt>
           <dd>FlashBlade multi-chassis</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_prod_name/ph_prod_name"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_prod_name"/></dt>
           <dd>
             ObjectEngine
           </dd>
@@ -701,102 +701,101 @@
           <dd>FlashArray</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_direct_flash_shelf/ph_direct_flash_shelf"/></dt>
-          <dd>39.8 kg (85.8 lbs.) </dd>
+          <dt><ph conkeyref="pure_storage_keys/ph_direct_flash_shelf"/></dt>
+          <dd>39.8 kg (85.8 lbs.)</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_chassis_weight/ph_chassis_weight"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_chassis_weight"/></dt>
           <dd>23.9 kg (52.7 lbs.)</dd>
           <dd>37.8 kg (83.2 lbs.)</dd>
           <dd>38.6 kg (85 lbs.)</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_psu_weight/ph_psu_weight"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_psu_weight"/></dt>
           <dd>1.04 kg (2.3 lbs.)</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_efm_weight/ph_efm_weight"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_efm_weight"/></dt>
           <dd>3.77 kg (8.3 lbs.)</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_blade_weight/ph_blade_weight"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_blade_weight"/></dt>
           <dd>Up to 3.2 kg (6.9 lbs.)</dd>
-          <dd>up to 3.2 kg (6.9 lbs.)</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_blade_blank_weight/ph_blade_blank_weight"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_blade_blank_weight"/></dt>
           <dd>.05 kg (.11 lbs.)</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_product_type_cap_pl/ph_product_type_cap_pl"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_product_type_cap_pl"/></dt>
           <dd>Clusters</dd>
           <dd>Arrays</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_product_type_pl/ph_product_type_pl"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_product_type_pl"/></dt>
           <dd>clusters</dd>
           <dd>arrays</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_product_type_cap/ph_product_type_cap"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_product_type_cap"/></dt>
           <dd>Custer</dd>
           <dd>Array</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_product_type/ph_product_type"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_product_type"/></dt>
           <dd>cluster</dd>
           <dd>array</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_directory_type_cap_pl/ph_directory_type_cap_pl"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_directory_type_cap_pl"/></dt>
           <dd>Buckets</dd>
           <dd>File names</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_directory_type_pl/ph_directory_type_pl"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_directory_type_pl"/></dt>
           <dd>buckets</dd>
           <dd>File names</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_directory_type_cap/ph_directory_type_cap"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_directory_type_cap"/></dt>
           <dd>Bucket</dd>
           <dd>File name</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_directory_type/ph_directory_type"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_directory_type"/></dt>
           <dd>bucket</dd>
           <dd>file name</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_storage_type_cap_pl/ph_storage_type_cap_pl"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_storage_type_cap_pl"/></dt>
           <dd>File systems</dd>
           <dd>Volumes</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_storage_type_pl/ph_storage_type_pl"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_storage_type_pl"/></dt>
           <dd>file systems</dd>
           <dd>volumes</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_storage_type_cap/ph_storage_type_cap"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_storage_type_cap"/></dt>
           <dd>File System</dd>
           <dd>Volume</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_storage_type/ph_storage_type"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_storage_type"/></dt>
           <dd>file system</dd>
           <dd>volume</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_data_type_cap_pl/ph_data_type_cap_pl"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_data_type_cap_pl"/></dt>
           <dd>Objects</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_data_type_pl/ph_data_type_pl"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_data_type_pl"/></dt>
           <dd>objects</dd>
         </dlentry>
         <dlentry>
-          <dt><ph conkeyref="ph_data_type_cap/ph_data_type_cap"/></dt>
+          <dt><ph conkeyref="pure_storage_keys/ph_data_type_cap"/></dt>
           <dd>Object</dd>
         </dlentry>
       </dl>
