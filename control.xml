@@ -840,5 +840,158 @@
         </dlentry>
       </dl>
     </section>
+    <section>
+      <title>Bookmap titles</title>
+              <dl>
+            <dlentry>
+                <dt>bm_40_0083_05_40_0083_05_purestorage_com_*</dt>
+                <dd>FlashArray, FlashBlade, and ObjectEngine Safety and Compliance</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_40_0165_02_b0_40_0165_02_b0_purestorage_com_*</dt>
+                <dd>FA-405 to FlashArray//X R2 Upgrade Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_40_0166_02_40_0166_02_purestorage_com_*</dt>
+                <dd>FA-420 to FlashArray//X R2 Upgrade Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_40_0167_02_40_0167_02_purestorage_com_*</dt>
+                <dd>FA-450 to FlashArray//X R2 Upgrade Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_directflash_shelf_technical_specifications_directflash_shelf_technical_specifications_pn_40_0164_00_*</dt>
+                <dd>DirectFlash Shelf Technical Specifications</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_ditamap_*</dt>
+                <dd>Data Migration Hardware Installation Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_*</dt>
+                <dd>Pure1 Manage REST API Reference Guide DUPLICATE</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_flasharray_enhanced_data_security_guide_part_number_40_0058_06_d03_august_2019_history_2019pure_storage_inc_all_rights_reserv_*</dt>
+                <dd>Enhanced Data Security Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_flasharray_m_and_x70_r1_to_x_r2_upgrade_guide_flasharray_m_and_x70_r1_to_x_r2_upgrade_guide_40_0159_03_b0_*</dt>
+                <dd>FlashArray//M to //X R2 Upgrade Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_flasharray_x_r2_cabling_guide_flasharray_x_r2_cabling_guide_pn_40_0156_01_*</dt>
+                <dd>FlashArray//XR2 Cabling Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_flasharray_x_r2_flasharray_x_r2_40_0157_02_*</dt>
+                <dd>FlashArray XR2 Intraseries Upgrade Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_flasharray_x_r2_service_guide_flasharray_x_r2_service_guide_40_0169_03_b0_*</dt>
+                <dd>FlashArray//XR2 Service Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_flasharray_x_r2_site_planning_guide_flasharray_x_r2_site_planning_guide_40_0200_00_b0_*</dt>
+                <dd>FlashArray XR2 Site Planning Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_flasharray_x_r2_technical_specifications_flasharray_x_r2_technical_specifications_pn_40_0162_01_*</dt>
+                <dd>FlashArray XR2 Technical Specifications</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_flashblade_multi_chassis_site_planning_guide_flashblade_multi_chassis_site_planning_guide_40_0170_00_*</dt>
+                <dd>FlashBlade Multi-Chassis Site Planning Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_flashblade_service_guide_flashblade_service_guide_40_0110_01_*</dt>
+                <dd>FlashBlade Service Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_flashblade_site_planning_guide_flashblade_site_planning_guide_40_0109_03_*</dt>
+                <dd>FlashBlade Site Planning Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_flashblade_technical_specifications_flashblade_technical_specifications_40_0124_07_*</dt>
+                <dd>FlashBlade Technical Specifications</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_flashblade_user_guide_*</dt>
+                <dd>Pure Storage FlashBlade User Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_objectengine_5_0_configuration_guide_for_commvault_*</dt>
+                <dd>Configuring Commvault with ObjectEngine</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_objectengine_5_0_configuration_guide_for_netbackup_7_and_8_cloud_connector_*</dt>
+                <dd>Configuring NetBackup 7/8 Cloud Connector with ObjectEngine</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_objectengine_5_0_configuration_guide_for_veeam_backup_and_amp_replication_*</dt>
+                <dd>Configuring Veeam Backup &amp; Replication 9.5 with ObjectEngine</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_objectengine_a_technical_specifications_objectengine_a_technical_specifications_pn_40_0204_00_*</dt>
+                <dd>ObjectEngine Technical Specifications</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_page_*</dt>
+                <dd>Pure1 Manage REST API Reference Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_pure_storage_flashblade_object_store_rest_api_*</dt>
+                <dd>Pure Storage FlashBlade Object Store REST API</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_pure_storage_management_pack_for_microsoft_system_center_operations_manager_user_guide_version_1_0_*</dt>
+                <dd>Pure Storage Management Pack for Microsoft System Center Operations Manager User Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_pure_storage_management_pack_for_vmware_vrealize_operations_manager_user_guide_version_1_0_*</dt>
+                <dd>Pure Storage vRealize Operations Management Pack</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_pure_storage_objectengine_5_1_configuration_guide_for_oracle_secure_cloud_backup_module_*</dt>
+                <dd>ObjectEngine 5.1 Configuration Guide for Oracle Secure Cloud Backup Module</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_pure_storage_objectengine_platform_user_guide_*</dt>
+                <dd>Pure Storage ObjectEngine Platform User Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_pure_storage_objectengine_software_installation_and_configuration_instructions_5_1_0_*</dt>
+                <dd>Pure Storage ObjectEngine Software Installation, Configuration, and Upgrade Instructions</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_pure_storage_openstack_cinder_volume_driver_7_0_0_setup_guide_*</dt>
+                <dd>Pure Storage OpenStack Cinder Volume Driver Setup Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_pure_storage_smi_s_provider_1_0_0_guide_*</dt>
+                <dd>Pure Storage SMI-S Provider User Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_pure_storage_vsphere_client_plugin_v4_1_0_user_guide_*</dt>
+                <dd>Pure Storage vSphere Web Client Plugin User Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_pure_storage_vss_hardware_provider_guide_version_1_1_0_*</dt>
+                <dd>Pure Storage VSS Hardware Provider Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_storage_removal_guide_storage_removal_guide_*</dt>
+                <dd>Storage Removal Guide</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_overview_*</dt>
+                <dd>Pure Storage FlashBlade Management REST API</dd>
+            </dlentry>
+            <dlentry>
+                <dt>bm_flashblade_multi_chassis_installation_guide_flashblade_multi_chassis_installation_guide_pn_40_0143_05_*</dt>
+                <dd>FlashBlade Multi-Chassis Installation Guide</dd>
+            </dlentry>
+        </dl>
+    </section>
   </conbody>
 </concept>
