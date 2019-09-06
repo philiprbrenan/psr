@@ -803,37 +803,42 @@
     </section>
     <section>
       <title>Notes</title>
-      <p>Lists the Terms and notes replacement text per PS-777.</p>
+      <p>Lists the Terms and notes replacement text per PS-777. List below shows actual matches by manual inspection and found by conversion</p>
+      <p>Purity FB      == 0</p>
+      <p>Establish r    == 0</p>
+      <p>On round-hole  == 2</p>
+      <p>Do not stack   == 2</p>
+      <p>portable flash == 4</p>
       <dl>
         <dlentry>
           <dt>
             <note conref="col_hw_notes.xml#xd_7ac7f62ac9aaf52e-478184ed-169b6b4347b--7fea/note_fb_component_names"/>
           </dt>
-          <dd>Purity\s+FB\s+component\s+names\s+are\s+shown\s+in\s+parentheses\s+on\s+the\s+figure\.</dd>
+          <dd>Purity\s+FB\s+component\s+names\s+are\s+shown\s+in\s+parentheses\s+on\s+the\s+figure\s*\.?</dd>
         </dlentry>
         <dlentry>
           <dt>
             <note conref="col_hw_notes.xml#xd_7ac7f62ac9aaf52e-478184ed-169b6b4347b--7fea/tip_establish_power_cable_routes"/>
           </dt>
-          <dd>Establish\s+routes\s+for\s+all\s+power\s+cables.*reconfigure\s+the\s+other\s+cables\.</dd>
+          <dd>Establish\s+routes\s+for\s+all\s+power\s+cables.*reconfigure\s+the\s+other\s+cables\s*\.?</dd>
         </dlentry>
         <dlentry>
           <dt>
             <note conref="col_hw_notes.xml#xd_7ac7f62ac9aaf52e-478184ed-169b6b4347b--7fea/tip_use_clip_nuts"/>
           </dt>
-          <dd>On\s+round-hole\s+racks,\s+use\s+clip\s+nuts.*instead\s+of\s+cage\s+nuts\.</dd>
+          <dd>On\s+round-hole\s+racks,\s+use\s+clip\s+nuts.*instead.*nuts\s*\.?</dd>
         </dlentry>
         <dlentry>
           <dt>
             <note conref="col_hw_notes.xml#xd_7ac7f62ac9aaf52e-478184ed-169b6b4347b--7fea/caution_no_stacking_on_installed_xfm"/>
           </dt>
-          <dd>Do\s+not\s+stack\s+items\s+on\s+top\s+of\s+an\s+installed\s+XFM\.</dd>
+          <dd>Do\s+not\s+stack\s+items\s+on\s+top\s+of\s+an\s+installed\s+<ph>XFM</ph>\s*\.?</dd>
         </dlentry>
         <dlentry>
           <dt>
             <note conref="col_hw_notes.xml#xd_7ac7f62ac9aaf52e-478184ed-169b6b4347b--7fea/caution_xfm_usb_for_flash_drives"/>
           </dt>
-          <dd>The\s+XFM\s+USB\s+ports\s+are\s+for\s+portable\s+Flash\s+drives.*hubs\s+or\s+other\s+equipment\s+to\s+them\.</dd>
+          <dd>The\s+<ph>XFM</ph>.*portable\s+Flash\s+drives.*to\s+them\s*\.?</dd>
         </dlentry>
       </dl>
     </section>
