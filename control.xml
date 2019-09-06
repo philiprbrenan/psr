@@ -807,37 +807,33 @@
       <dl>
         <dlentry>
           <dt>
-            <note conref="*/col_hw_notes.xml#xd_7ac7f62ac9aaf52e-478184ed-169b6b4347b--7fea/note_fb_component_names"/>
+            <note conref="col_hw_notes.xml#xd_7ac7f62ac9aaf52e-478184ed-169b6b4347b--7fea/note_fb_component_names"/>
           </dt>
-          <dd>Purity FB component names are shown in parentheses on the figure.</dd>
+          <dd>Purity\s+FB\s+component\s+names\s+are\s+shown\s+in\s+parentheses\s+on\s+the\s+figure\.</dd>
         </dlentry>
         <dlentry>
           <dt>
-            <note conref="*/col_hw_notes.xml#xd_7ac7f62ac9aaf52e-478184ed-169b6b4347b--7fea/tip_establish_power_cable_routes"/>
+            <note conref="col_hw_notes.xml#xd_7ac7f62ac9aaf52e-478184ed-169b6b4347b--7fea/tip_establish_power_cable_routes"/>
           </dt>
-          <dd>Establish routes for all power cables before cabling a multi-chassis
-            array. This helps to prevent power cable disconnections if you must replace or
-            reconfigure the other cables.</dd>
+          <dd>Establish\s+routes\s+for\s+all\s+power\s+cables.*reconfigure\s+the\s+other\s+cables\.</dd>
         </dlentry>
         <dlentry>
           <dt>
-            <note conref="*/col_hw_notes.xml#xd_7ac7f62ac9aaf52e-478184ed-169b6b4347b--7fea/tip_use_clip_nuts"/>
+            <note conref="col_hw_notes.xml#xd_7ac7f62ac9aaf52e-478184ed-169b6b4347b--7fea/tip_use_clip_nuts"/>
           </dt>
-          <dd>On round-hole racks, use clip nuts (not provided by Pure Storage)
-            instead of cage nuts.</dd>
+          <dd>On\s+round-hole\s+racks,\s+use\s+clip\s+nuts.*instead\s+of\s+cage\s+nuts\.</dd>
         </dlentry>
         <dlentry>
           <dt>
-            <note conref="*/col_hw_notes.xml#xd_7ac7f62ac9aaf52e-478184ed-169b6b4347b--7fea/caution_no_stacking_on_installed_xfm"/>
+            <note conref="col_hw_notes.xml#xd_7ac7f62ac9aaf52e-478184ed-169b6b4347b--7fea/caution_no_stacking_on_installed_xfm"/>
           </dt>
-          <dd>Do not stack items on top of an installed XFM.</dd>
+          <dd>Do\s+not\s+stack\s+items\s+on\s+top\s+of\s+an\s+installed\s+XFM\.</dd>
         </dlentry>
         <dlentry>
           <dt>
-            <note conref="*/col_hw_notes.xml#xd_7ac7f62ac9aaf52e-478184ed-169b6b4347b--7fea/caution_xfm_usb_for_flash_drives"/>
+            <note conref="col_hw_notes.xml#xd_7ac7f62ac9aaf52e-478184ed-169b6b4347b--7fea/caution_xfm_usb_for_flash_drives"/>
           </dt>
-          <dd>The XFM USB ports are for portable Flash drives only. Do not
-            connect hubs or other equipment to them.</dd>
+          <dd>The\s+XFM\s+USB\s+ports\s+are\s+for\s+portable\s+Flash\s+drives.*hubs\s+or\s+other\s+equipment\s+to\s+them\.</dd>
         </dlentry>
       </dl>
     </section>
